@@ -217,11 +217,7 @@ In this step, I built an interactive dashboard using Streamlit and Plotly to vis
 
 - `dashboard/app.py`
 
-### Streamlit Theme Configuration
 
-- `.streamlit/config.toml`
-
-The dashboard uses a light theme to make screenshots and project presentation clearer.
 
 ### Note
 
@@ -301,8 +297,6 @@ EV_range_Test_Platform/
 │   └── dashboard_analysis.png
 ├── dashboard/
 │   └── app.py
-├── .streamlit/
-│   └── config.toml
 ├── requirements.txt
 └── README.md
 ```

@@ -1,0 +1,8 @@
+vehicle_model,actual_range_km,claimed_range_km,range_error_percent,range_gap_km
+Tesla Model Y,539.96,604.81,-9.82,-64.85
+BYD Seal,576.58,628.77,-6.58,-52.19
+NIO ET5,593.52,635.47,-4.25,-41.95
+Tesla Model 3,571.24,585.93,-0.38,-14.69
+BYD Atto 3,602.93,615.85,-0.3,-12.92
+XPeng P7,598.75,603.51,0.01,-4.76
+Zeekr 001,626.29,585.01,10.24,41.28
